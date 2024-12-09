@@ -1,4 +1,4 @@
-<img src="assets/images/JavaImage.png">
+<img src="assets/images/JavaImage.png" alt="Java Image">
 .header-image {
     width: 150px; 
     height: auto; 
