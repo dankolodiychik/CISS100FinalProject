@@ -1,10 +1,3 @@
- .header-image {
-            width: 150px;
-            height: auto;
-            display: block;
-            margin: 0 auto;
-        }
-
 <style>
 	.header-image {
     	    width: 150px; 
