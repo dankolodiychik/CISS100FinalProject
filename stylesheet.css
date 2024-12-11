@@ -1,18 +1,12 @@
-<head>
-<style>
- .header-image {
+<Style>
+       
+	 .header-image {
             width: 150px;
             height: auto;
             display: block;
             margin: 0 auto;
         }
 
-<style>
-<head>
-
-
-<style>
-       
 	body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             margin: 0;
